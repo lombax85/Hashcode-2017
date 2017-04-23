@@ -16,6 +16,10 @@ I classified:
 1321° in the world rank (over 2815 that were able to post a correct solution)   
 73° in the Italian rank
 
+![Score](/screenshots/score.png)
+![World Rank](/screenshots/world_rank.png)
+![Italian Rank](/screenshots/italian_rank.png)
+
 ## Obviously
 The code is obviously not well structured, it was not meant to be elegant or readable, its only goal was to provide a correct solution in less than 3 hours.
 The only attention I paid was about the time complexity of the algorithms (one of the input files was very big, in the past Hashcode I wasn't able to give the solution for the biggest file since the time needed for the computation was several hours)
